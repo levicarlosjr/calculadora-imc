@@ -352,7 +352,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
                           border: Border.all(color: Colors.orange[200]!),
                         ),
                         child: Text(
-                          'Olá, ratinhos(as), tudo bem? 🐭\n\nO IMC é uma medida simples e prática para avaliar o peso em relação à altura, mas não leva em conta fatores como massa muscular, distribuição de gordura, idade, sexo e composição corporal. Portanto, o IMC não reflete com precisão a saúde de ratinhos(as) muito musculosos, idosos ou crianças. Assim como cada pessoa é única, cada corpo também é! 🐭💪\n\nPara uma avaliação mais completa, consulte um profissional de saúde para considerar todos esses fatores, ok? Lembre-se: o mais importante é como você se sente e cuida do seu corpo! 🐭❤️',
+                          'Olá, tudo bem? 🐭 \n\nO IMC é uma medida simples e prática para avaliar o peso em relação à altura, mas não leva em conta fatores como massa muscular, distribuição de gordura, idade, sexo e composição corporal. Portanto, o IMC não reflete com precisão a saúde de indivíduos muito musculosos, idosos ou crianças. Assim como cada pessoa é única, cada corpo também é! 🐭💪\n\nPara uma avaliação mais completa, consulte um profissional de saúde para considerar todos esses fatores, ok? Lembre-se: o mais importante é como você se sente e cuida do seu corpo! 🐭❤️',
                           style: TextStyle(
                             fontSize: 14,
                             color: Colors.orange[800],
