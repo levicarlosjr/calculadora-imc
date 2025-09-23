@@ -143,7 +143,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
           padding: EdgeInsets.all(20),
           child: Column(
             children: [
-              // Ícone e título
+              // icon title
               Container(
                 margin: EdgeInsets.only(bottom: 30),
                 child: Column(
@@ -167,7 +167,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
                 ),
               ),
 
-              // Card com campos de entrada
+              // Card 
               Card(
                 elevation: 8,
                 shape: RoundedRectangleBorder(
@@ -223,7 +223,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
 
               SizedBox(height: 25),
 
-              // Botões
+              // parte dos botões 
               Row(
                 children: [
                   Expanded(
@@ -322,7 +322,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
 
               SizedBox(height: 30),
 
-              // Limitações do IMC - SUA CRIAÇÃO FOFA! 🐭
+              // Limitações do IMC
               Card(
                 elevation: 5,
                 shape: RoundedRectangleBorder(
@@ -368,7 +368,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
 
               SizedBox(height: 20),
 
-              // Tabela de referência
+              // Tabela de ref
               Card(
                 elevation: 5,
                 shape: RoundedRectangleBorder(
@@ -427,7 +427,7 @@ class _TelaPrincipalState extends State<TelaPrincipal> {
 
               SizedBox(height: 20),
 
-              // Nota de rodapé
+              // rodapé
               Container(
                 padding: EdgeInsets.all(15),
                 decoration: BoxDecoration(
